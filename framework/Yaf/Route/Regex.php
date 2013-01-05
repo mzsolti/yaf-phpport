@@ -1,6 +1,6 @@
 <?php
 /**
- * Yaf Route Regexp
+ * Yaf Route Regex
  */
 class Yaf_Route_Regex implements Yaf_Route_Interface
 {
