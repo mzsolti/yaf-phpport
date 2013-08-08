@@ -9,7 +9,7 @@
  */
 namespace Yaf;
 
-abstract class Action_Abstract extends Config_Abstract
+abstract class Action_Abstract extends Controller_Abstract
 {
     protected $_controller = null;
     public function execute()
