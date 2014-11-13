@@ -103,8 +103,8 @@ class Yaf_Router
                     );
                 }
             }
-            $name = key($config);
             next($config);
+            $name = key($config);
         }
 
         /*//exit();
